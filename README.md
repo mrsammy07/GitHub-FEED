@@ -16,7 +16,11 @@
 
 
 # ⚡ Steps: 🔥
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+## ✨ Heroku Deploy ✨
+The easiest way to deploy this Bot is via Heroku.
+
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/mrsammy07/GITHUB-FEED"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 2) Fill all the details.
 3) Turn on worker.
